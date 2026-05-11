@@ -1,4 +1,6 @@
 
+-----
+
 The passage walks through converting a simple calculator program from the C programming language into Python while highlighting the similarities and differences between the two languages. It also introduces important Python concepts such as input handling, type conversion, and built-in data structures.
 
 The instructor begins by revisiting an older calculator program written in C. The original program includes the CS50 library and the standard input/output library. It asks the user for two integers using the `get_int` function and then prints the sum of those integers. The calculator is intentionally simple because it was originally designed to demonstrate basic syntax and arithmetic operators in C.
