@@ -1,3 +1,6 @@
+# [CS50x 2026 - Lecture 6 - Python](https://www.youtube.com/watch?v=Rl0ludWTLxs&list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6&index=8)
+
+
 ## Detailed Description of the CS50 Week 6 Lecture: Transition from C to Python
 
 In this CS50 Week 6 lecture, David J. Malan introduces one of the most important transitions in the course: moving from the low-level programming language **C** to the higher-level language **Python**. The lecture focuses not only on Python syntax, but also on the broader philosophy of programming languages, abstraction, productivity, and the trade-offs between performance and ease of use.
